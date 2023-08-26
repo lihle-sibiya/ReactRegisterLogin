@@ -11,6 +11,14 @@ function App() {
   // User Login info
   const database = [
     {
+      username: "lihle",
+      password: "12345"
+    },
+    {
+      username: "owethu",
+      password: "12345"
+    },
+    {
       username: "user1",
       password: "pass1"
     },
